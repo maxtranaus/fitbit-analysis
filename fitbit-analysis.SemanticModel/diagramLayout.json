@@ -1,0 +1,177 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 238
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 290,
+            "y": 296.86813507845045
+          },
+          "nodeIndex": "DailyCalory",
+          "nodeLineageTag": "6008e592-bd11-44f7-b2a4-acbe433df48e",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 651.87061151346222,
+            "y": 631.19771430230219
+          },
+          "nodeIndex": "DailyIntensity",
+          "nodeLineageTag": "1ecdc86e-50c2-4622-8d7c-17b2370222b8",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 672.17735333785379,
+            "y": 403.42105488796358
+          },
+          "nodeIndex": "DailyStep",
+          "nodeLineageTag": "8e0f2fa7-cf07-4e1f-9d19-307088c58832",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 299.92393029190441,
+            "y": 784.12227539158675
+          },
+          "nodeIndex": "HeartrateSecond",
+          "nodeLineageTag": "f906745a-4a3f-43f8-9be4-241c499f5e80",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 302,
+            "y": 0
+          },
+          "nodeIndex": "SleepDay",
+          "nodeLineageTag": "64be0354-03a3-4bbf-9829-25ac219fe27c",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 687.24371984132335,
+            "y": 7
+          },
+          "nodeIndex": "WeightLogInfo",
+          "nodeLineageTag": "ace60876-ee2c-464d-9472-a41b8577928b",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1038.8706115134623,
+            "y": 245.06113769579338
+          },
+          "nodeIndex": "DateCalendar",
+          "nodeLineageTag": "ab2f7a36-8205-47d6-b39e-597be9a57819",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1367.8706115134623,
+            "y": 262.06113769579338
+          },
+          "nodeIndex": "TimeCalendar",
+          "nodeLineageTag": "5fd4fd17-3223-4485-a542-65b26b71ce45",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 488.22078437129221
+          },
+          "nodeIndex": "User",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1203.8706115134623,
+            "y": 506.06113769579338
+          },
+          "nodeIndex": "HourlyCalory",
+          "nodeLineageTag": "edc54005-e8b7-4f66-aac0-601f6d6b54ad",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1319.8706115134623,
+            "y": 761.06113769579338
+          },
+          "nodeIndex": "HourlyStep",
+          "nodeLineageTag": "25d5c7c2-7994-4787-a271-ce82d6230aca",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1651.8706115134623,
+            "y": 440.06113769579338
+          },
+          "nodeIndex": "Measures Table",
+          "nodeLineageTag": "6058b697-c517-4257-9817-0758eccd026b",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "fitbit-analysis"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "db5e3261-1277-4a5d-9e3e-6c94e3f67cdc"
+  }
+}
